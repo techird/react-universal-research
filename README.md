@@ -5,17 +5,17 @@ Research a way to built universal application using express, react and redux.
 ## Install Dependencies
 
 ```sh
-yarn
+npm install
 ```
 
 ## Run The Server
 
 ```sh
-yarn run server
+npm run server
 ```
 
 ## Run Webpack Developement Server
 
 ```sh
-yarn dev
+npm run dev
 ```
